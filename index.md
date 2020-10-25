@@ -13,7 +13,6 @@ In this page you will find my CV and more about me.
 
 
 ## Core module: Cybersecurity
-[Core Cybersecurity Module](https://laurarivella.github.io/lauraR-/core-module/)
 
 In this module we are laying the foundations of cybersecurity knowledge. 
 Topics include:
@@ -27,3 +26,6 @@ Topics include:
 * MySQL
 * Access control as a data security strategy
 * Secure web development and programming (Django)
+
+[Core Cybersecurity Module](https://laurarivella.github.io/lauraR-/core-module/)
+This page contains all seminar notes, discussion forum reflections, case studies and reflection pieces on what I've learned. 
