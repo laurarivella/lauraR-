@@ -4,7 +4,7 @@ This is a collection of all the projects and the learning outcomes of the MSc in
 
 
 
-##About me
+## About me
 I am a full time Intelligence Analyst with an MA in Security Studies. 
 This MSc in Cybersecurity will provide me with the additional tools and knowledge to branch out into a rapidly evolving and exciting sector.
 
@@ -12,7 +12,7 @@ This MSc in Cybersecurity will provide me with the additional tools and knowledg
 In this page you will find my CV and more about me.
 
 
-##Core module: Cybersecurity
+## Core module: Cybersecurity
 [Core Cybersecurity Module](https://laurarivella.github.io/lauraR-/core-module/)
 
 In this module we are laying the foundations of cybersecurity knowledge. 
