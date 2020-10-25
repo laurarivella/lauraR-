@@ -13,4 +13,8 @@ github_username:  laurarivella
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
