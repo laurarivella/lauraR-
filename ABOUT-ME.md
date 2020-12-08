@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: /core-module/
+permalink: /about-me/
 ---
 
 ## About me
