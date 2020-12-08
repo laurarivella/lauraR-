@@ -19,6 +19,7 @@ It is a chance to explore topics further and answer further questions that came 
 * Seminar 3 - UML Diagrams
 * Seminar 4 - Python programming and MySQL database management
 * Seminar 5 - Implementation of security measures 
+* Seminar 6 - Django web applications
 
 [Core Module Seminars]()
 
