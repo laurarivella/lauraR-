@@ -1,6 +1,7 @@
 ---
 title: "About Me"
 layout: page
+permanlink: pretty
 permalink: /about-me/
 ---
 
