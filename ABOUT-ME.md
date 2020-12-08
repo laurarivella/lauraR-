@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-permalink: https://laurarivella.github.io/lauraR-/about-me/
+permalink: /core-module/
 ---
 
 ## About me
