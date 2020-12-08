@@ -2,7 +2,6 @@
 layout: page
 title: "About Me"
 permalink: /about-me/
-theme: jekyll-theme-cayman
 ---
 
 ## About me
