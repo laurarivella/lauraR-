@@ -2,9 +2,6 @@
 title: "About Me"
 layout: page
 permalink: /about-me/
-output:
-  rmarkdown::html_document:
-    theme: cayman
 ---
 
 ## About me
