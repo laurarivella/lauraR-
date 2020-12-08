@@ -38,6 +38,13 @@ Topics include:
 ## Learning outcomes 
 
 
+## Skills Matrix
+
+
+## SWOT analysis 
+
+
+
 
 
 
