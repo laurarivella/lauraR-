@@ -2,7 +2,7 @@ title: ePortfolio
 author: Laura Rivella 
 email: laura.rivella@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This blog will take you with me on my journey to pursue an MSc in Cybersecurity.
+  This ePortfolio will take you with me on my journey to pursue an MSc in Cybersecurity.
   Let's dive in!
 
 theme: jekyll-theme-cayman
