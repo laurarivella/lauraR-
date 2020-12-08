@@ -8,7 +8,7 @@ This is a collection of all the projects and the learning outcomes of the MSc in
 I am a full time Intelligence Analyst with an MA in Security Studies. 
 This MSc in Cybersecurity will provide me with the additional tools and knowledge to branch out into a rapidly evolving and exciting sector.
 
-<a href="https://laurarivella.github.io/lauraR-/about-me/">About me</a>
+[About me page]( https://laurarivella.github.io/lauraR-/about-me/)
 In this page you will find my CV and more about me.
 
 
