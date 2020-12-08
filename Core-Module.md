@@ -1,11 +1,12 @@
 ---
 layout: page
-title: "Core Module"
+title: "Core Module - LICS"
 permalink: /core-module/
 ---
 
-This page contains all seminar notes, discussion forum reflections, case studies and reflection pieces on what I've learned. 
+## Core Module: Launching into Cyber Security
 
+This page contains all seminar notes, discussion forum reflections, case studies and reflection pieces on what I've learned. 
 
 
 ## Seminar notes 
