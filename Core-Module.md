@@ -32,10 +32,10 @@ It is a great chance to delve deeper into topics and questions left unanswered.
 Topics include:
 * 
 * 
-* 
-* 
 
 [Discussion forum reflections]()
+
+## Learning outcomes 
 
 
 
