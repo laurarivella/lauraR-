@@ -8,7 +8,6 @@ permalink: /core-module/
 
 This page contains all seminar notes, discussion forum reflections, case studies and reflection pieces on what I've learned. 
 
-
 ## Seminar notes 
 
 In this section I addreess my learning outcomes, my challenges and reflect on the peer debate that took place in the seminars. 
@@ -21,7 +20,7 @@ It is a chance to explore topics further and answer further questions that came 
 * Seminar 5 - Implementation of security measures 
 * Seminar 6 - Django web applications
 
-[Core Module Seminars]()
+[Core Module Seminars](/core-module-seminars.md)
 
 ## Discussion forum  
 
@@ -35,7 +34,7 @@ Topics include:
 * Threat analysis
 * Threat mitigation
 
-[Discussion forum]()
+[Discussion forum](/discussion-forum-reflections/)
 
 ## Learning outcomes 
 
