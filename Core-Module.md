@@ -39,6 +39,12 @@ Topics include:
 ## Learning outcomes 
 
 
+## Wiki contributions 
+
+We were asked to contibute to the course wiki as a legacy project whenever we came across interesting concepts during our reading and research. 
+
+[Wiki contibutions](https://laurarivella.github.io/lauraR-/wiki/)
+
 ## Skills Matrix
 
 
