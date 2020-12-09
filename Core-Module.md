@@ -34,7 +34,7 @@ Topics include:
 * Threat analysis
 * Threat mitigation
 
-[Discussion forum](/discussion-forum-reflections/)
+[Discussion forum](/discussion-forum-reflections.md)
 
 ## Learning outcomes 
 
