@@ -23,7 +23,7 @@ It is a chance to explore topics further and answer further questions that came 
 
 [Core Module Seminars]()
 
-## Discussion forum reflections
+## Discussion forum  
 
 As an integral part of our studies, we are encouraged to participate in structured peer debates in the form of a moderated discussion forum on a relevant topic.
 In the third and final week of a debate cycle, a summary post provides ample material to reflect on my own contribution and my peer's contribution. 
@@ -35,7 +35,7 @@ Topics include:
 * Threat analysis
 * Threat mitigation
 
-[Discussion forum reflections]()
+[Discussion forum]()
 
 ## Learning outcomes 
 
