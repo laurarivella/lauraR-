@@ -30,8 +30,10 @@ In the third and final week of a debate cycle, a summary post provides ample mat
 It is a great chance to delve deeper into topics and questions left unanswered. 
 
 Topics include:
-* 
-* 
+* Cybersecurity in clinical infrastructure and the energy sector
+* Data privacy laws and regulations
+* Threat analysis
+* Threat mitigation
 
 [Discussion forum reflections]()
 
