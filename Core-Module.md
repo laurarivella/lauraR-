@@ -36,6 +36,15 @@ Topics include:
 
 [Discussion forum](https://laurarivella.github.io/lauraR-/discussion-forum-reflections/)
 
+## Assignments 
+
+In addition to being assessed on our Discussion forum contribution, the core module featured two main assignments: a report and a coding project. 
+
+The report was a test case on the secure implementation of a web based appointment and schedule manager for a clinic, while the coding project entailed building one of the solutions proposed in the report. 
+
+[Core module assignments](https://laurarivella.github.io/lauraR-/assignments/)
+
+
 ## Learning outcomes 
 
 
