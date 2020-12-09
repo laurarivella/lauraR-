@@ -3,7 +3,6 @@
 This is a collection of all the projects and the learning outcomes of the MSc in Cybersecurity I'm currently pursuing. 
 
 
-
 ## About me
 I am a full time Intelligence Analyst with an MA in Security Studies. 
 This MSc in Cybersecurity will provide me with the additional tools and knowledge to branch out into a rapidly evolving and exciting sector.
@@ -29,3 +28,4 @@ Topics include:
 
 [Core Cybersecurity Module](https://laurarivella.github.io/lauraR-/core-module/)
 This page contains all seminar notes, discussion forum reflections, case studies and reflection pieces on what I've learned. 
+
